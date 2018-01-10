@@ -1,7 +1,6 @@
 #
 #wtf&&&
 #
-Cosole2/bin/*.exe
-Cosole2/bin/*.exe.mdb
-Cosole2/obj/*.exe
-Cosole2/obj/*.exe.mdb
+*.exe
+*.exe.mdb
+
