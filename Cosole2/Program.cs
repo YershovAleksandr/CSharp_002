@@ -17,7 +17,7 @@ namespace Cosole2
 			Console.WriteLine ("Hello World!");
 
 
-			Data = new int[N,N];
+		Data = new int[N,N];
 			ResData = new int[N,N];
 
 			for (int i = 0; i < N; i++)
