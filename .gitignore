@@ -1,6 +1,6 @@
 #
 #wtf&&&
 #
-*.exe
-*.exe.mdb
+Cocole/bin/Debug/*.exe
+Cocole/bin/Debug/*.exe.mdb
 
