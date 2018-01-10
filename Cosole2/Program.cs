@@ -24,7 +24,7 @@ namespace Cosole2
 			{
 				for (int j = 0; j < N; j++)
 				{
-					
+				
 					Data [i,j] = 10 * (i + 1) + j + 1;
 					Prn (Data[i, j]);
 				}
