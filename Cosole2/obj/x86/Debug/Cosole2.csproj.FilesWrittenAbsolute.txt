@@ -1,0 +1,5 @@
+/home/hp/dev/csharp/Cosole2/Cosole2/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/hp/dev/csharp/Cosole2/Cosole2/bin/Debug/Cosole2.exe.mdb
+/home/hp/dev/csharp/Cosole2/Cosole2/bin/Debug/Cosole2.exe
+/home/hp/dev/csharp/Cosole2/Cosole2/obj/x86/Debug/Cosole2.exe
+/home/hp/dev/csharp/Cosole2/Cosole2/obj/x86/Debug/Cosole2.exe.mdb
